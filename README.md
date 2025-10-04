@@ -6,7 +6,6 @@ It includes data preprocessing, exploratory data analysis (EDA), feature selecti
 
 The models used include:
 - **Linear Regression**
-- **Ridge Regression**
 - **Lasso Regression**
 - **Random Forest Regressor**
 - **XGBoost Regressor**
